@@ -13,4 +13,4 @@ ParsecSDR is a software-defined radio inspired by the project FreeRSP (http://el
 
 Currently, I have a wiki with electronics/digital signal processing notes, and a schematic for the PCB.
 
-# [signal processing notes]https://rocky-alloy-d4b.notion.site/My-Electronics-Stuff-deecacb0d6644523ab40db108b1bff3b)
+# [signal processing notes](https://rocky-alloy-d4b.notion.site/My-Electronics-Stuff-deecacb0d6644523ab40db108b1bff3b)
